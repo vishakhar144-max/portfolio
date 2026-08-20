@@ -51,18 +51,18 @@ function App() {
       tech: ["React", "CSS", "Framer Motion"],
       github: "#",
     },
+     {
+      title: "Blog platform",
+      description:
+        "A responsive blog platform built using HTML, CSS, Javascript, React.",
+      tech: ["HTML", "CSS", "Javascript", "React"],
+      github: "#",
+    },
     {
       title: "Resturant Website",
       description:
         "A responsive restaurant website featuring  a food menu, online booking, and  contact section.",
       tech: ["HTML", "CSS", "Javascript", "React"],
-      github: "#",
-    },
-    {
-      title: "Calculator",
-      description:
-        "A simple and responsive  calculator built using HTML, CSS and javascript.",
-      tech: ["HTML", "CSS", "Javascript"],
       github: "#",
     },
     
